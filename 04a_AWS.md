@@ -4,7 +4,7 @@
 
 ## Attachment 04a: AWS Cloud Service Availability 
 
-*Note: The implementation of some of these services is unique to TS C2S. Further exploration needed)*
+*Note: The implementation of some of these services is unique to TS C2S. Further exploration needed. All of the below services are available on .mil, SC2S, and TSC2S Environments.*
 
 *Assumption: SC2S will implement AWS services in the same way as TS C2S.*
 
