@@ -37,3 +37,11 @@ NGA intends to retire its current traditional data center and replace it with a 
 
 This project is in the [public domain](LICENSE) within the United States.
 
+=======
+![Alt text][logo]
+
+[logo]: https://www.nga.mil/MediaRoom/Press%20Kit/PublishingImages/NGA_Seal_bw_150dpi.bmp
+
+**NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY**
+
+**Moving Target Indicator (MTI) Modernization Software**
