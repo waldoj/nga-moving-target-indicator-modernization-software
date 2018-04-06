@@ -1,6 +1,6 @@
 # National Geospatial-Intelligence Agency (NGA)
 
-# Moving Target Indicator (MTI) Software Modernization**
+# Moving Target Indicator (MTI) Software Modernization
 
 ## Request for Proposal (RFP) DRAFT
 
