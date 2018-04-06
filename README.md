@@ -4,7 +4,7 @@
 
 ## Request for Proposal (RFP) DRAFT
 
-<img src="https://www.nga.mil/Partners/PublishingImages/720px-US-NationalGeospatialIntelligenceAgency-2008Seal.svg.png" width="200" align="left" style="margin: 20px;/>
+<img src="https://www.nga.mil/Partners/PublishingImages/720px-US-NationalGeospatialIntelligenceAgency-2008Seal.svg.png" width="200" align="left" style="margin: 20px;" />
 
 **April 6, 2018**
 
