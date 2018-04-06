@@ -1,10 +1,10 @@
+<img src="https://www.nga.mil/Partners/PublishingImages/720px-US-NationalGeospatialIntelligenceAgency-2008Seal.svg.png" width="200" style="margin: 20px;" />
+
 # National Geospatial-Intelligence Agency (NGA)
 
 ## Moving Target Indicator (MTI) Software Modernization
 
 ## Request for Proposal (RFP) DRAFT
-
-<img src="https://www.nga.mil/Partners/PublishingImages/720px-US-NationalGeospatialIntelligenceAgency-2008Seal.svg.png" width="200" align="left" style="margin: 20px;" />
 
 **April 6, 2018**
 
