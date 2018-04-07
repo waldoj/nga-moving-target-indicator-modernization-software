@@ -82,7 +82,7 @@ The Government anticipates awarding a Time-and-Materials (T&amp;M) type task ord
 
 ### 7.1 PERSONNEL SKILLS AND KNOWLEDGE
 
-The Offeror shall provide qualified personnel with relevant experience and domain knowledge in line with the Statement of Objectives, in terms of necessary skills and the requisite level of knowledge and experience. The Offeror shall assign those persons whose r=E9sum=E9s are submitted with its quotation and who are identified in the Offeror’s quotation as Key Personnel. All Offeror employees assigned to perform this task order will be Key Personnel. Broadly, a team assigned to perform on this task order should have experience with:
+The Offeror shall provide qualified personnel with relevant experience and domain knowledge in line with the Statement of Objectives, in terms of necessary skills and the requisite level of knowledge and experience. The Offeror shall assign those persons whose resumes are submitted with its quotation and who are identified in the Offeror’s quotation as Key Personnel. All Offeror employees assigned to perform this task order will be Key Personnel. Broadly, a team assigned to perform on this task order should have experience with:
 
 **7.1.1** Building and testing web-based or mobile applications: user-centric design practices, usability testing, User experience design, Visual design, Specific code languages, Cloud deployment, Open-source login / authentication services, Agile and scrum methodologies, etc.; AND_
 
