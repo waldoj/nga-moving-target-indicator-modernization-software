@@ -35,5 +35,5 @@ NGA intends to retire its current traditional data center and replace it with a 
 
 ## Public domain
 
-This project is in the [public domain](LICENSE) within the United States.
+This project is in the [public domain](LICENSE).
 
