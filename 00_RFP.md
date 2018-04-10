@@ -12,7 +12,7 @@ The National Geospatial-Intelligence Agency (NGA), Office of Contract Services (
 
 ## 2.0 BACKGROUND
 
-NGA intends to retire its current traditional data center and replace it with a cloud-based computing environment. This necessitates migrating motion imagery data: MTI, Video, Wide Area Motion Imagery, and the associated operational capabilities to the cloud.
+NGA intends to retire its current traditional data center and replace it with a cloud-based computing environment. This necessitates migrating motion imagery data - MTI, Video, Wide Area Motion Imagery, and the associated operational capabilities to the cloud.
 
 ## 3.0 SCOPE AND OBJECTIVES
 
@@ -20,31 +20,31 @@ _Develop capabilities to ingest, discover, retrieve and visualize MTI data (STAN
 
 ### 3.1 BACKLOG
 
-**3.1.1 STANAG 4607:** Adopt, adapt, or build open services to be exposed or consumed in a cloud-based enterprise for the processing of STANAG 4607 data and data types for the purpose of:
+**3.1.1 STANAG 4607** - Adopt, adapt, or build open services to be exposed or consumed in a cloud-based enterprise for the processing of STANAG 4607 data and data types for the purpose of:
 
-**3.1.1.1 Ingest:** Receive data via multicast protocols - ingest both streaming and file based data -  ingest STANAG 4607 formats 1,2, &amp; 3 - ingest up to 1TB/day of MTI data - support search, discovery, retrieval of MTI data;
+**3.1.1.1 Ingest:** receive data via multicast protocols - ingest both streaming and file based data -  ingest STANAG 4607 formats 1,2, &amp; 3 - ingest up to 1TB/day of MTI data - support search, discovery, retrieval of MTI data;
 
-**3.1.1.2 Catalog:** All source &amp; MTI data - maintain metadata integrity - retain metadata as long as the source data - maintain modifications to metadata - maintain metadata at appropriate classification level and associate it at any classification level - support search, discovery, retrieval, and visualization of MTI;
+**3.1.1.2 Catalog:** all source &amp; MTI data - maintain metadata integrity - retain metadata as long as the source data - maintain modifications to metadata - maintain metadata at appropriate classification level and associate it at any classification level - support search, discovery, retrieval, and visualization of MTI;
 
-**3.1.1.3 Discovery and Retrieval:** Retrieve a portion of a mission based on defined area, time period, platform ID, type of platform - expose API to external sites;
+**3.1.1.3 Discovery and Retrieval:** retrieve a portion of a mission based on defined area, time period, platform ID, type of platform - expose API to external sites;
 
-**3.1.1.4 Visualization:** Provide metadata to and display MTI data on an enterprise mapping service - provide a configurable list of MTI missions and status; AND
+**3.1.1.4 Visualization:** provide metadata to and display MTI data on an enterprise mapping service - provide a configurable list of MTI missions and status; AND
 
-**3.1.1.5 Storage:** Store metadata at appropriate classification level - provide source data based on queries across security domains - Store in accordance with records management laws, policies, etc.
+**3.1.1.5 Storage:** store metadata at appropriate classification level - provide source data based on queries across security domains - Store in accordance with records management laws, policies, etc.
 
-**3.1.2 STANAG 4676:** Adopt, adapt, or build open services to be exposed or consumed in a cloud-based enterprise for the processing of STANAG 4676 data and data types for the purpose of:
+**3.1.2 STANAG 4676 -** Adopt, adapt, or build open services to be exposed or consumed in a cloud-based enterprise for the processing of STANAG 4676 data and data types for the purpose of:
 
 **3.1.2.1 Ingest:** Common vector files (shp, csv, NTRK, KML) - STANAG 4676 in JSON format & edition 1 format - user generated tracks - support discovery & retrieval;
 
 **3.1.2.2 Catalog:** All source generated and user generated metadata and tracks - support proper tagging for discovery, retrieval;
 
-**3.1.2.3 Discovery and Retrieval:** Based on location/area and time - at users security domain and lower domains;
+**3.1.2.3 Discovery and Retrieval:** based on location/area and time - at users security domain and lower domains;
 
-**3.1.2.4 Visualization:** Provide metadata to and display tracks on an enterprise mapping service; AND
+**3.1.2.4 Visualization:** provide metadata to and display tracks on an enterprise mapping service; AND
 
-**3.1.2.5 Storage:** Store metadata at appropriate classification level - provide source data based on queries across security domains - Store in accordance with records management laws, policies, etc.
+**3.1.2.5 Storage:** store metadata at appropriate classification level - provide source data based on queries across security domains - Store in accordance with records management laws, policies, etc.
 
-**3.1.3 Ancillary / Enabling:** Adopt, adapt, or build ancillary open services to be exposed or consumed in a cloud-based enterprise to meet operational performance and efficiency requirements as further defined for STANAG 4607 & 4676 data and data-types (latency, fidelity, compliance).
+**3.1.3 Ancillary / Enabling** - Adopt, adapt, or build ancillary open services to be exposed or consumed in a cloud-based enterprise to meet operational performance and efficiency requirements as further defined for STANAG 4607 & 4676 data and data-types (latency, fidelity, compliance).
 
 
 ### 3.2 LIST OF DELIVERABLES WITH QUALITY ASSURANCE SURVEILLANCE PLAN (QASP)
@@ -82,9 +82,9 @@ The Government anticipates awarding a Time-and-Materials (T&amp;M) type task ord
 
 ### 7.1 PERSONNEL SKILLS AND KNOWLEDGE
 
-The Offeror shall provide qualified personnel with relevant experience and domain knowledge in line with the Statement of Objectives, in terms of necessary skills and the requisite level of knowledge and experience. The Offeror shall assign those persons whose résumés are submitted with its quotation and who are identified in the Offeror’s quotation as Key Personnel. All Offeror employees assigned to perform this task order will be Key Personnel. Broadly, a team assigned to perform on this task order should have experience with:
+The Offeror shall provide qualified personnel with relevant experience and domain knowledge in line with the Statement of Objectives, in terms of necessary skills and the requisite level of knowledge and experience. The Offeror shall assign those persons whose r=E9sum=E9s are submitted with its quotation and who are identified in the Offeror’s quotation as Key Personnel. All Offeror employees assigned to perform this task order will be Key Personnel. Broadly, a team assigned to perform on this task order should have experience with:
 
-**7.1.1** Building and testing web-based or mobile applications: user-centric design practices, usability testing, User experience design, Visual design, Specific code languages, Cloud deployment, Open-source login / authentication services, Agile and scrum methodologies, etc.; AND
+**7.1.1** Building and testing web-based or mobile applications: user-centric design practices, usability testing, User experience design, Visual design, Specific code languages, Cloud deployment, Open-source login / authentication services, Agile and scrum methodologies, etc.; AND_
 
 **7.1.2** _Binary streaming format_
 
@@ -102,7 +102,7 @@ The Offeror shall provide qualified personnel with relevant experience and domai
 
 Please submit your quotation in accordance with the instructions specified in this RFP and the terms and conditions of your GSA Schedule Contract, and the prices contained therein. Please ensure that your response includes all requested information and that your technical response clearly demonstrates your company’s capability to perform the objectives in the SOO. The Government intends to award based on initial offers. Therefore, it is critical that you are fully responsive to the solicitation and submit your best offer initially. These are the milestones provided for this solicitation:
 
-| No. | Due Dates | Acquisition Event |
+| **No.** | **Due Dates** | **Acquisition Event** |
 | --- | --- | --- |
 | 1 | TBD | Solicitation released |
 | 2 | TBD plus 2-3 days | Questions due |
@@ -130,7 +130,7 @@ Provide a comprehensive list of similar projects delivered either by the Offeror
 
 **8.1.3.3** If you fail to submit two code repositories in the same language as proposed for this requirement will be deemed non-responsive and not be considered for award;
 
-**8.1.3.4** Code repositories submitted must have been for projects completed within the past three (3) calendar years, with staffing profiles of approximately five (5) to nine (9) Full-Time Equivalent (FTE) personnel in periods of performance lasting no more than six (6) calendar months.
+**8.1.3.4** Code repositories submitted must have been for projects completed within the past three (3) calendar years, with staffing profiles of approximately five (5) to nine (9) Full Time Equivalent (FTE) personnel in periods of performance lasting no more than six (6) calendar months.
 
 Written technical quotes that fail to include any of the items identified above will not be considered for award. Inclusion of caveats, assumptions, or exceptions to the requirement of any kind, in any part of the submission, will result in the Offeror no longer being considered for award.
 
