@@ -2,7 +2,9 @@
 
 # Moving Target Indicator (MTI) Software Modernization
 
-## Attachment 04b: Product Backlog
+## Attachment 04b: Backlog
+
+## Backlog
 
 | **UNCLASSIFIED** |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
