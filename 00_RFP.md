@@ -86,7 +86,7 @@ The Offeror shall provide qualified personnel with relevant experience and domai
 
 **7.1.1** Building and testing web-based or mobile applications: user-centric design practices, usability testing, User experience design, Visual design, Specific code languages, Cloud deployment, Open-source login / authentication services, Agile and scrum methodologies, etc.; AND
 
-**7.1.2** _Binary streaming format_
+**7.1.2** _Parsing binary data streams._
 
 ### 7.2 ENVIRONMENT
 
