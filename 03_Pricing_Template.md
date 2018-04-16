@@ -13,4 +13,4 @@
 |   | Software Developer (Senior) | 0.0 | 0.0 | 0.0 | $0.00 |
 |   | Software Developer (Senior) | 0.0 | 0.0 | 0.0 | $0.00 |
 |   | Software Developer (Senior) | 0.0 | 0.0 | 0.0 | $0.00 |
-|   | | Six (6) month Base Period total = $0,000.00 | Six (6) month Option Period 1 total = $0,000.00 | Six (6) month Option Period 1 total = $0,000.00 | 1 year total = $1,953,000.00 |
+|   | | Six (6) month Base Period total = $0,000.00 | Six (6) month Option Period 1 total = $0,000.00 | Six (6) month Option Period 1 total = $0,000.00 | 1 year total = $0,000,000.00 |
