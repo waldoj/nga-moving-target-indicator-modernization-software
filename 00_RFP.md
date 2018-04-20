@@ -86,7 +86,7 @@ The Offeror shall provide qualified personnel with relevant experience and domai
 
 **7.1.1** Building and testing web-based or mobile applications: user-centric design practices, usability testing, User experience design, Visual design, Specific code languages, Cloud deployment, Open-source login / authentication services, Agile and scrum methodologies, etc.; AND_
 
-**7.1.2** _Binary streaming format_
+**7.1.2** _Parsing binary data streams._
 
 ### 7.2 ENVIRONMENT
 
@@ -136,7 +136,7 @@ Written technical quotes that fail to include any of the items identified above 
 
 ## 9.0 PRICE PROPOSAL
 
-Offerors should complete both tabs of the pricing template ([ATTACHMENT 03](03_Pricing_Template.md)). The first tab is for the base period of six months, the second tab is for the first option period of six months, and the third tab is for the second option period of six months. For purposes of pricing the option period, the offeror should assume continued performance by all members of the proposed team at full operating capacity for the duration of the performance period. **The price quotation must be received no later than the due date indicated above.** All proposed labor rates must be consistent with the terms, conditions, and rates of your GSA Schedule Master Award. Proposed labor rates must be fully burdened and include profit, fringe benefits, salary, indirect rates, and the Contract Access Fee (CAF).
+Offerors should complete both tabs of the pricing template (ATTACHMENT 03). The first tab is for the base period of six months, the second tab is for the first option period of six months, and the third tab is for the second option period of six months. For purposes of pricing the option period, the offeror should assume continued performance by all members of the proposed team at full operating capacity for the duration of the performance period. **The price quotation must be received no later than the due date indicated above.** All proposed labor rates must be consistent with the terms, conditions, and rates of your GSA Schedule Master Award. Proposed labor rates must be fully burdened and include profit, fringe benefits, salary, indirect rates, and the Contract Access Fee (CAF).
 
 
 
@@ -171,15 +171,14 @@ Key personnel and staffing requirements will be defined at the TO level. The nam
 
 ### 11.4 CLAUSES & PROVISIONS
 
-See [ATTACHMENT 05](05_Clauses_and_Provisions.pdf) for additional provisions and clauses applicable to this Task Order Request for Proposal. In the event
+See **ATTACHMENT 05** for additional provisions and clauses applicable to this Task Order Request for Proposal. In the event
 
 ### 11.5 ATTACHMENTS
 
-| Attachment Number | Description |
+| **Attachment Number** | **Description** |
 | --- | --- |
-| 01  | [SOO](01_SOO.md) |
-| 02  | [QASP](02_QASP.md) |
-| 03  | [Pricing Template](03_Pricing_Template.md) |
-| 04a | [Available AWS Environment Services & Tools](04a_AWS.md) |
-| 04b | [Product Backlog](04b_Backlog.md) |
-| 05  | [Clauses & Provisions (TBD)](05_Clauses_and_Provisions.pdf	) |
+| 01 | SOO |
+| 02 | QASP |
+| 03 | Pricing Template |
+| 04 | Available AWS Environment Services & Tools |
+| 05 | Clauses & Provisions        (TBD) |
