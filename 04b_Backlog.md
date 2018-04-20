@@ -9,7 +9,7 @@
 | **UNCLASSIFIED** |   |   |   |   |   |   |   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story ID | **As a &lt;type of user&gt;** | I need to &lt;perform some task&gt; | so that &lt;achieve some goal&gt; | **Category** |   |   |   |
-|   |   | **Mimium Viable Product** |   | **2.1.1 STANAG 4607** | **2.1.2 STANAG 4676** | **2.1.3 Ancilliary Enabling** | **Function** |
+|   |   | **Minimium Viable Product** |   | **2.1.1 STANAG 4607** | **2.1.2 STANAG 4676** | **2.1.3 Ancilliary Enabling** | **Function** |
 | MGUS-21 | content manager | adhere to cloud data migration guidance | I can comply with Records Management laws, regulations and policies |   |   | 11cc | Anciliary |
 | MGUS-24 | content manager | associate products with source data | users can search and discover intelligence information |   |   | 11ee | Anciliary |
 | MGUS-26 | content manager | automatically deliver queried data | users have access to data in a timely manner |   |   |   | Anciliary |
