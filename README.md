@@ -45,5 +45,5 @@ This RFP cites two “STANAGs,” or NATO STANdardization AGreements, that this 
 
 ## Public domain
 
-This project is in the [public domain](LICENSE) within the United States.
+This project is in the [public domain](LICENSE).
 
