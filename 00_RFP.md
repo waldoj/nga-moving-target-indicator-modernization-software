@@ -128,7 +128,7 @@ Provide a comprehensive list of similar projects delivered either by the Offeror
 
 **8.1.3.2** The projects must have been delivered by either a) the Offeror itself or, alternatively, b) a teaming partner that is proposed in response to this solicitation, or, alternatively, c) any key personnel that is being proposed in response to this solicitation. Please identify how the Offeror’s team was involved in the development. Offerors that include similar experience of the same key personnel who directly participated in the cited similar experience will be ranked higher than those who propose projects that did not involve their key personnel;
 
-**8.1.3.3** If you fail to submit two code repositories in the same language as proposed for this requirement will be deemed non-responsive and not be considered for award;
+**8.1.3.3** If you fail to submit two code repositories in the same language as proposed for this requirement you will be deemed non-responsive and not be considered for award;
 
 **8.1.3.4** Code repositories submitted must have been for projects completed within the past three (3) calendar years, with staffing profiles of approximately five (5) to nine (9) Full Time Equivalent (FTE) personnel in periods of performance lasting no more than six (6) calendar months.
 
