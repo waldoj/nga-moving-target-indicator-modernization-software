@@ -75,7 +75,7 @@
 * OpenSensorHub
 * OpenStreetMap
 * PostgreSQL DBaaS from Crunchy Data Solutions
-* Rocket.Chat
+* Chat
 
 ## DevOps Tools
 
