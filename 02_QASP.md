@@ -29,7 +29,7 @@ The COR will evaluate the performance objectives through surveillance as reflect
 | Deliverable or Required Services | Performance Standard(s) | Acceptable Quality Level | Method of Surveillance |
 | --- | --- | --- | --- |
 | Tested Code | Code delivered under the order must have substantial test code coverage and a clean code base | Minimum of 90% test coverage of all relevant code | Combination of manual review and the results from automated testing |
-| Properly Styled Code | [18F Front End Guide](https://frontend.18f.gov/#js-style) | 0 linting errors and 0 warnings | Combination of manual review and the results from automated testing |
+| Properly Styled Code | [18F Front-End Guide](https://frontend.18f.gov/#js-style) | 0 linting errors and 0 warnings | Combination of manual review and the results from automated testing |
 | Accessible | Web Content Accessibility Guidelines 2.0 AA (WCAG 2.0 AA) standards | 0 errors reported for WCAG 2.0 AA standards using an automated scanner and 0 errors reported in manual testing | [http://squizlabs.github.io/HTML\_CodeSniffer/](http://squizlabs.github.io/HTML_CodeSniffer/)or [https://github.com/pa11y/pa11y](https://github.com/pa11y/pa11y) |
 | Deployed | Code must successfully build and deploy into staging environment. | Successful build with a single command | Combination of manual review and automatic testing |
 | Documentation | All dependencies are listed and the licenses are documented. Major functionality in the software/source code is documented. Individual methods are documented inline using comments that permit the use tools such as JsDoc. System diagram is provided. | Combination of manual review and automatic testing, if available |   |
