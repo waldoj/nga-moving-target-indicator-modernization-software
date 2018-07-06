@@ -250,7 +250,7 @@ The Government anticipates awarding a Time-and-Materials (T&amp;M) type task ord
 
 The offeror shall provide qualified personnel with relevant experience and domain knowledge in line with the Statement of Objectives, in terms of necessary skills and the requisite level of knowledge and experience. The offeror shall assign those persons whose resumes are submitted with its quotation and who are identified in the offeror’s quotation as Key Personnel. All offeror employees assigned to perform this task order will be Key Personnel. Broadly, a team assigned to perform on this task order should have experience with:
 
-**7.1.1** Building and testing web-based or mobile applications: user-centric design practices, usability testing, user experience design, visual design, specific code languages, cloud deployment, open-source login / authentication services, Agile and Scrum methodologies, etc.; _AND_
+**7.1.1** Building and testing web-based or mobile applications: user-centric design practices, usability testing, user experience design, visual design, cloud deployment, open-source login / authentication services, Agile and Scrum methodologies, etc.; _AND_
 
 **7.1.2** Parsing binary data streams.
 
