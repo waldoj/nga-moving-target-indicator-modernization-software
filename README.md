@@ -6,7 +6,7 @@
 
 ## Request for Proposal (RFP)
 
-**June XX, 2018**
+**July 17, 2018**
 
 ## Background
 
