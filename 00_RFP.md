@@ -4,7 +4,7 @@
 
 ## Request for Quote (RFQ)
 
-**June 29, 2018**
+**July 17, 2018**
 
 ## 1.0 PURPOSE
 
