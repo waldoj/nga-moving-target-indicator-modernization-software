@@ -4,7 +4,7 @@
 
 ## Request for Quote (RFQ)
 
-**June 29, 2018**
+**July 17, 2018**
 
 ## 1.0 PURPOSE
 
@@ -279,7 +279,6 @@ Erika Hessler         Contracting Officer         [Erika.S.Hessler@nga.mil](mail
 Joseph Hicks        Contract Specialist        [Joseph.W.Hicks@nga.mil](mailto:Joseph.W.Hicks@nga.mil)
 
 This procurement is being conducted in accordance with FAR Subpart 8.4, Federal Supply Schedules. This is not a FAR Part 15, Contracting by Negotiation, procurement. All submissions in response to this RFQ are considered quotations and not proposals or offers, even if labeled as such. The offerors agree to and are bound by all instructions, procedures and rules of this RFQ under Part 8. The Government is not obligated to determine a competitive range, conduct discussions, solicit final revised quotations, or use other techniques associated with FAR Part 15. The contracting techniques associated with FAR Part 15.3 do not apply in any way, shape, or form to this action.
-
 ### 8.1 INSTRUCTIONS FOR WRITTEN QUOTATIONS
 
 Written quotes (all sections) are due by no later than by **1700 EST on JULY 20th, 2018**. Quotes not submitted via e-mail, or not received by the above deadline, will NOT be evaluated. Contact the Contracting Officer and/or the Contract Specialist if you have not received a confirmation of receipt, including attachments, within 24 hours of your quote submission.
