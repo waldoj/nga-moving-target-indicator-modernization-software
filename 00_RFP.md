@@ -217,7 +217,7 @@ Below is a high-level story map for this epic. The story map is a starting point
 
 ### 3.3 List of Deliverables with Quality Assurance Surveillance Plan (QASP)
 
-To satisfy the needs of the Agency, the following deliverables shall be provided by the conclusion of performance. The COR will evaluate the performance objectives of deliverables through surveillance as reflected below by reviews and acceptance of work products and services. As indicated, the Contracting Officer Representative (COR) will assess progress towards the final delivered software code. Note that the performance requirements listed below are required for the final deliverable; however, the Government will assess the sprints and incremental delivery of code, to ensure that the offeror is on a path to successful final delivery (see QASP, ATTACHMENT 02).
+To satisfy the needs of the Agency, the following deliverables shall be provided by the conclusion of performance. The COR will evaluate the performance objectives of deliverables through surveillance as reflected below by reviews and acceptance of work products and services. As indicated, the Contracting Officer Representative (COR) will assess progress towards the final delivered software code. Note that the performance requirements listed below are required for the final deliverable; however, the Government will assess the sprints and incremental delivery of code, to ensure that the offeror is on a path to successful final delivery (see [QASP, ATTACHMENT 02](02_QASP.md)).
 
 | Deliverable or Required Services | Performance Standard(s) | Acceptable Quality Level | Method of Surveillance\* |
 | --- | --- | --- | --- |
@@ -256,7 +256,7 @@ The offeror shall provide qualified personnel with relevant experience and domai
 
 ### 7.2 ENVIRONMENT
 
-**Develop the Solution for Deployment in SC2S:** The offeror shall deliver the Solution as incremental, production-ready software releases optimized to operate within SC2S. SC2S is a classified AWS cloud-computing environment, for Government use, that hosts the subset of commercial AWS-derived services described in attachment 04a: AWS Cloud Service Availability. The offeror may leverage the AWS services listed in attachment 04a as part of the Solution. The offeror may not incorporate non-AWS services into the Solution unless the services are native to the code base developed by the offeror. As additional service offerings from the AWS commercial cloud gain approval for deployment in SC2S, the offeror may incorporate them into subsequent releases (see ATTACHMENT 04a).
+**Develop the Solution for Deployment in SC2S:** The offeror shall deliver the Solution as incremental, production-ready software releases optimized to operate within SC2S. SC2S is a classified AWS cloud-computing environment, for Government use, that hosts the subset of commercial AWS-derived services described in [attachment 04a: AWS Cloud Service Availability](04a_AWS.md). The offeror may leverage the AWS services listed in attachment 04a as part of the Solution. The offeror may not incorporate non-AWS services into the Solution unless the services are native to the code base developed by the offeror. As additional service offerings from the AWS commercial cloud gain approval for deployment in SC2S, the offeror may incorporate them into subsequent releases (see [ATTACHMENT 04a](04a_AWS.md)).
 
 ## 8.0 INSTRUCTIONS AND EVALUATION
 
@@ -288,8 +288,8 @@ Your written quote shall contain the following sections:
 
 - **Staffing Plan including Key Personnel information** (Resumes and any Letters of Intent); the Staffing Plan has a three (3) page limit, with a two (2) page limit per Resume and a one (1) page limit per Letter of Intent,
 - **Performance Work Statement** (PWS) responsive to the SOO; with five (5) page limit total;
-- **Similar Experience** ; three (3) pages per project, requisite project code submitted via Git repository does not count against page limitation; AND
-- **Completed Price Quote** (template provided).
+- **Similar Experience**; three (3) pages per project, requisite project code submitted via Git repository does not count against page limitation; AND
+- **Completed Price Quote** ([template provided](Pricing_Template.xlsx)).
 
 **8.1.1 STAFFING PLAN (Factor 1)**
 
@@ -321,7 +321,7 @@ Quotes that fail to include any of the required information identified under 8.1
 
 **8.1.4 Price Quote**
 
-Offerors should complete both tabs of the pricing template (ATTACHMENT 03). The first tab is for the base period of six months, the second tab is for the first option period of six months, and the third tab is for the second option period of six months. For purposes of pricing the option period, the offeror should assume continued performance by all members of the proposed team at full operating capacity for the duration of the performance period. **The price quotation must be received no later than the due date indicated above.** All proposed labor rates must be consistent with the terms, conditions, and rates of your GSA Schedule Master Award. Proposed labor rates must be fully burdened and include profit, fringe benefits, salary, indirect rates, and the Contract Access Fee (CAF).
+Offerors should complete both tabs of the pricing template ([ATTACHMENT 03](03_Pricing_Template.xlsx)). The first tab is for the base period of six months, the second tab is for the first option period of six months, and the third tab is for the second option period of six months. For purposes of pricing the option period, the offeror should assume continued performance by all members of the proposed team at full operating capacity for the duration of the performance period. **The price quotation must be received no later than the due date indicated above.** All proposed labor rates must be consistent with the terms, conditions, and rates of your GSA Schedule Master Award. Proposed labor rates must be fully burdened and include profit, fringe benefits, salary, indirect rates, and the Contract Access Fee (CAF).
 
 The Price Quote shall also contain a cover page containing the following information:
 
