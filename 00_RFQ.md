@@ -77,7 +77,7 @@ Below is a high-level overview of this epic. The story map is a starting point f
 </tr>
 <tr>
 <td>VISUALIZATION</td>
-<td>Display STANAG 4607 and STANAG 4676 streaming data and associated metadata on an enterprise mapping service that conforms to OGC standards. Current enterprise mapping service is GEOINT Visualization Services (GVS) / Map of the World, MoW)</td>
+<td>Display STANAG 4607 and STANAG 4676 streaming data and associated metadata on an enterprise mapping service that conforms to OGC standards. Current enterprise mapping service is GEOINT Visualization Services (GVS) / Map of the World (MoW)</td>
 <td>
 <ul><li>Applicable security controls are enforced</li>
 <li>Performance requirements and SLAs are met</li>
