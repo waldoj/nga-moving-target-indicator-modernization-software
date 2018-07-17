@@ -16,13 +16,19 @@ The National Geospatial-Intelligence Agency intends to retire its current tradit
 
 ### Submission of Proposals
 
-The NGA is soliciting proposals in response to this Moving Target Indicator (MTI) Software Modernization Request for Quote (RFQ).
-
-[insert instructions]
+The NGA is soliciting proposals in response to this Moving Target Indicator (MTI) Software Modernization Request for Quote (RFQ).  Please submit your quotation in accordance with all instructions specified in the attached RFQ document, specifically section 8.0 of the RFQ, the terms and conditions of your GSA Schedule Contract, and the prices contained therein. Please ensure that your response includes all requested information and that your technical response clearly demonstrates your company’s capability to perform the objectives in the SOO.  
 
 ### Timeline
 
-[insert timeline]
+These are the milestones provided for this solicitation:
+
+No.	Due Date		Acquisition Event
+1	17JUL18	Solicitation released
+2	20JUL18 by 1700EST	Questions due
+3	23JUL18 by 1700EST	Letters of Intent
+4	31JUL18 by 1700EST	Quotes due (Technical and Price)
+5	TBD	Award decision
+
 
 
 ## Contents
