@@ -232,7 +232,7 @@ To satisfy the needs of the Agency, the following deliverables shall be provided
 
 ## 4.0 PERIOD OF PERFORMANCE
 
-This order shall be comprised of one (1) base period of six (6) calendar months and two (2) option periods of six (6) calendar months each. The total potential period of performance is **18 months.**
+This order shall be comprised of **one (1)** base period of **six (6)** calendar months and **two (2)** option periods of **six (6)** calendar months each. The total potential period of performance is **18 months.**
 
 ## 5.0 PLACE OF PERFORMANCE
 
@@ -270,13 +270,13 @@ Please submit your quotation in accordance with the instructions specified in th
 | 4 | 31JUL18 by 1700EST | Quotes due (Technical and Price) |
 | 5 | TBD | Award decision |
 
-Page size for all documents provided shall be 8.5 x 11 inches and shall be single spaced with at least 1 inch margins for all sides. The font size shall be no less than 12 points. Files shall not be zipped (.zip).
+Page size for all documents provided shall be **8.5 x 11** inches and shall be single spaced with at least **1** inch margins for all sides. The font size shall be no less than **12 points**. Files **shall not** be zipped (.zip).
 
 Do not lock or encrypt any files emailed as part of the proposal submission. Perform a virus check prior to emailing any files; a virus infected file may cause rejection of that file and could result in the offeror no longer being considered for award. All submissions related to this RFQ and the above Acquisition Events shall be submitted via e-mail to the following:
 
 |Karen L. Eichelberger | Contracting Officer |[Karen.L.Eichelberger@nga.mil](mailto:Karen.L.Eichelberger@nga.mil)|
 | --- | --- | --- |
-Joseph Hicks        Contract Specialist        [Joseph.W.Hicks@nga.mil](mailto:Joseph.W.Hicks@nga.mil)
+|KieArra Shorter | Contract Specialist | [KieArra.M.Shorter@nga.mil](mailto:KieArra.M.Shorter@nga.mil)|
 
 This procurement is being conducted in accordance with FAR Subpart 8.4, Federal Supply Schedules. This is not a FAR Part 15, Contracting by Negotiation, procurement. All submissions in response to this RFQ are considered quotations and not proposals or offers, even if labeled as such. The offerors agree to and are bound by all instructions, procedures and rules of this RFQ under Part 8. The Government is not obligated to determine a competitive range, conduct discussions, solicit final revised quotations, or use other techniques associated with FAR Part 15. The contracting techniques associated with FAR Part 15.3 do not apply in any way, shape, or form to this action.
 ### 8.1 INSTRUCTIONS FOR WRITTEN QUOTATIONS
@@ -285,9 +285,9 @@ Written quotes (all sections) are due by no later than by **1700 EST on JULY 31t
 
 Your written quote shall contain the following sections:
 
-- **Staffing Plan including Key Personnel information** (Resumes and any Letters of Intent); the Staffing Plan has a **three (3) page** limit, with a **two (2) page** limit per Resume and a one (1) page limit per Letter of Intent,
+- **Staffing Plan including Key Personnel information** (Resumes and any Letters of Intent); the Staffing Plan has a **three (3) page** limit, with a **two (2) page** limit per Resume and a **one (1) page** limit per Letter of Intent,
 - **Performance Work Statement** (PWS) responsive to the SOO; with **five (5) page** limit total;
-- **Similar Experience**; three (3) pages per project, requisite project code submitted via Git repository **does not** count against page limitation; AND
+- **Similar Experience**; **three (3) pages** per project, requisite project code submitted via Git repository **does not** count against page limitation; AND
 - **Completed Price Quote** ([template provided](Pricing_Template.xlsx)).
 
 **8.1.1 STAFFING PLAN (Factor 1)**
