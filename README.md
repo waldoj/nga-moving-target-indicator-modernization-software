@@ -30,7 +30,7 @@ The NGA is soliciting proposals in response to this Moving Target Indicator (MTI
 1. [Request for Quotes (RFQ)](00_RFQ.md)
 2. Attachment 01: [Statement of Objectives (SOO)](01_SOO.md)
 3. Attachment 02: [Quality Assurance Surveillance Plan (QASP)](02_QASP.md)
-4. Attachment 03: [Pricing Template](03_Pricing_Template.md)
+4. Attachment 03: [Pricing Template](03_Pricing_Template.xlsx) (Excel file)
 5. Attachment 04a: [Available AWS Environment Services & Tools](04a_AWS.md)
 6. Attachment 04b: [MTI Backlog](04b_Backlog.md)
 7. Attachment 05: [Clauses & Provisions](05_Clauses_and_Provisions.pdf)
