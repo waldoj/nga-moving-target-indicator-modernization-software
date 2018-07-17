@@ -274,8 +274,8 @@ Page size for all documents provided shall be 8.5 x 11 inches and shall be singl
 
 Do not lock or encrypt any files emailed as part of the proposal submission. Perform a virus check prior to emailing any files; a virus infected file may cause rejection of that file and could result in the offeror no longer being considered for award. All submissions related to this RFQ and the above Acquisition Events shall be submitted via e-mail to the following:
 
-Karen L. Eichelberger         Contracting Officer         [Karen.L.Eichelberger@nga.mil](mailto:Karen.L.Eichelberger@nga.mil)
-
+|Karen L. Eichelberger | Contracting Officer |[Karen.L.Eichelberger@nga.mil](mailto:Karen.L.Eichelberger@nga.mil)|
+| --- | --- | --- |
 Joseph Hicks        Contract Specialist        [Joseph.W.Hicks@nga.mil](mailto:Joseph.W.Hicks@nga.mil)
 
 This procurement is being conducted in accordance with FAR Subpart 8.4, Federal Supply Schedules. This is not a FAR Part 15, Contracting by Negotiation, procurement. All submissions in response to this RFQ are considered quotations and not proposals or offers, even if labeled as such. The offerors agree to and are bound by all instructions, procedures and rules of this RFQ under Part 8. The Government is not obligated to determine a competitive range, conduct discussions, solicit final revised quotations, or use other techniques associated with FAR Part 15. The contracting techniques associated with FAR Part 15.3 do not apply in any way, shape, or form to this action.
