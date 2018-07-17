@@ -28,10 +28,11 @@ The COR will evaluate the performance objectives through surveillance as reflect
 
 | **Deliverable or Required Services** | **Performance Standard(s)** | **Acceptable Quality Level** | **Method of Surveillance** |
 | --- | --- | --- | --- |
-| Tested Code | Code delivered under the order must have substantial test code coverage and a clean code base | Minimum of 90% test coverage of all relevant code | Combination of manual review and the results from automated testing |
-| Properly Styled Code | [18F Front End Guide](https://frontend.18f.gov/#js-style) | 0 linting errors and 0 warnings | Combination of manual review and the results from automated testing |
-| Accessible | Web Content Accessibility Guidelines 2.0 AA (WCAG 2.0 AA) standards | 0 errors reported for WCAG 2.0 AA standards using an automated scanner and 0 errors reported in manual testing | [http://squizlabs.github.io/HTML\_CodeSniffer/](http://squizlabs.github.io/HTML_CodeSniffer/)or  [https://github.com/pa11y/pa11y](https://github.com/pa11y/pa11y) |
-| Deployed | Code must successfully build and deploy into staging environment. | Successful build with a single command | Combination of manual review and automatic testing |
+| Tested Code | Code delivered under the order must have substantial test code coverage and a clean code base | Minimum of 90% test coverage of all relevant code |  |
+| Properly Styled Code | [18F Front End Guide](https://frontend.18f.gov/#js-style) | 0 linting errors and 0 warnings |  |
+| Accessible | Web Content Accessibility Guidelines 2.0 AA (WCAG 2.0 AA) standards | 0 errors reported for WCAG 2.0 AA standards using an automated scanner and 0 errors reported in manual testing |  |
+| Deployed | Code must successfully build and deploy into staging environment. | Successful build with a single command |  |
 | Documentation | All dependencies are listed and the licenses are documented. Major functionality in the software/source code is documented. Individual methods are documented inline using comments that permit the use tools such as JsDoc. System diagram is provided. | Combination of manual review and automatic testing, if available |   |
-| User research | Usability testing and other user research methods must be conducted at regular intervals throughout the development process (not just at the beginning or end). | Artifacts from usability testing and/or other research methods with end-users are available at the end of every applicable sprint, in accordance with the vendor’s research plan. | TTS will evaluate the artifacts based on a research plan provided by the vendor at the end of the second sprint. |
-| Secure | OWASP Application Security Verification Standard 3.0 | Code submitted must be free of medium- and high-level static and dynamic security vulnerabilities | Clean tests from a static testing SaaS (such as Gemnasium) and from OWASP ZAP, along with documentation explaining any false positives |
+| Secure | OWASP Application Security Verification Standard 3.0 | Code submitted must be free of medium- and high-level static and dynamic security vulnerabilities |  |
+
+***The government will determine the method of surveillance and frequency of surveillance based on the successful offeror’s PWS.**
