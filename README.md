@@ -4,8 +4,10 @@
 
 ## Moving Target Indicator (MTI) Software Modernization
 
-## Request for Quote (RFQ)
+## Request for Quote (RFQ) - NTIAG18179AS49
 
+## eBuy RFQ: RFQ1306427
+	
 **July 17, 2018**
 
 ## Background
@@ -18,10 +20,7 @@ The National Geospatial-Intelligence Agency intends to retire its current tradit
 
 The NGA is soliciting proposals in response to this Moving Target Indicator (MTI) Software Modernization Request for Quote (RFQ).  Please submit your quotation in accordance with all instructions specified in the attached RFQ document, specifically section 8.0 of the RFQ, the terms and conditions of your GSA Schedule Contract, and the prices contained therein. Please ensure that your response includes all requested information and that your technical response clearly demonstrates your company’s capability to perform the objectives in the SOO.  
 
-|**Karen L. Eichelberger** | **Contracting Officer** |[Karen.L.Eichelberger@nga.mil](mailto:Karen.L.Eichelberger@nga.mil)|
-| --- | --- | --- |
-|**KieArra Shorter** | **Contract Specialist** | **[KieArra.M.Shorter@nga.mil](mailto:KieArra.M.Shorter@nga.mil)**|
-
+Please submit questions to either the GitHub Repository or to eBuy RFQ1306427 by the due date below. Quotes shall also be submitted to GSA eBuy RFQ1306427 on or before the time specified below. Any quote received after this date and time shall be rejected. Any quote not received through eBuy shall be rejected.
 
 ### Timeline
 
