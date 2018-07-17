@@ -264,10 +264,10 @@ Please submit your quotation in accordance with the instructions specified in th
 
 | **No.** | **Due Dates** | **Acquisition Event** |
 | --- | --- | --- |
-| 1 | 29JUN18 by 1700EST | Solicitation released |
-| 2 | 03JUL18 by 1700EST | Questions due |
-| 3 | 09JUL18 by 1700EST | Letters of Intent |
-| 4 | 20JUL18 by 1700EST | Quotes due (Technical and Price) |
+| 1 | 17JUL18 | Solicitation released |
+| 2 | 20JUL18 by 1700EST | Questions due |
+| 3 | 23JUL18 by 1700EST | Letters of Intent |
+| 4 | 31JUL18 by 1700EST | Quotes due (Technical and Price) |
 | 5 | TBD | Award decision |
 
 Page size for all documents provided shall be 8.5 x 11 inches and shall be single spaced with at least 1 inch margins for all sides. The font size shall be no less than 12 points. Files shall not be zipped (.zip).
