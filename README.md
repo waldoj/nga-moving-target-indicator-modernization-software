@@ -46,6 +46,8 @@ These are the milestones provided for this solicitation:
 6. Attachment 04b: [MTI Backlog](04b_Backlog.md)
 7. Attachment 05: [Clauses & Provisions](05_Clauses_and_Provisions.pdf)
 
+Additionally, [all contents can be downloaded as a single PDF](RFQ_Complete.pdf).
+
 
 ## STANAGs
 
