@@ -308,10 +308,6 @@ Provide your technical understanding and approach to the performance objectives 
 
 Provide a list of at least two (2), but no more than three (3) relevant projects delivered either by the offeror, by a Teaming Partner proposed in response to this solicitation, or by any Key Personnel proposed in response to this solicitation. Please identify how your proposed team was involved in the project.
 
-**8.1.3 SIMILAR EXPERIENCE (Factor 3)**
-
-Provide a comprehensive list of similar projects delivered either by the Offeror, by a Teaming Partner proposed in response to this solicitation, or by any Key Personnel proposed in response to this solicitation. Please identify how your proposed team was involved in the project.
-
 **8.1.3.1** Links to the Git repository (either credentialed or public) that includes the source code developed and accepted for the relevant projects must be provided;
 
 **8.1.3.2** The projects must have been delivered by either a) the offeror itself or, alternatively, b) a teaming partner that is proposed in response to this solicitation, or, alternatively, c) any key personnel that is being proposed in response to this solicitation. Please identify how the offeror’s team was involved in the development. Offerors that include similar experience of the same key personnel who directly participated in the cited similar experience will be ranked higher than those who propose projects that did not involve their key personnel;
