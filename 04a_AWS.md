@@ -4,15 +4,17 @@
 
 ## Attachment 04a: AWS Cloud Service Availability 
 
+This list is known to be current of July 24, 2018.
+
 *Note: The implementation of some of these services is unique to TS C2S. Further exploration needed. All of the below services are available on .mil, SC2S, and TSC2S Environments.*
 
 *Assumption: SC2S will implement AWS services in the same way as TS C2S.*
 
-| |   |
+| Service | Implementation Differences |
 | --- | --- |
 |Amazon EC2 Auto Scaling | 1. Launching Spot Instances not supported.<br>2. Unable to invoke a Lambda function - AWS Lambda not available.<br>3. Amazon EC2 launches instances into a VPC.<br>4. Amazon Resource Names and endpoints have different values.<br>5. Only signature version 4 signing supported. |
 |AWS Billing and Cost Management |   |
-|AWS CloudFormation | 1. Might need to modify AWS CloudFormation sample templates and template snippets.<br>2. Does not support AWS CloudFormation features and functionality after June 6, 2017.<br>3. Does not support AWS Config<br>4. Does not support Amazon CloudWatch Logs<br>5. Cannot launch a stack using an IAM service role<br>6. CloudFormer not available<br>7. Amazon Resource Names and endpoints have different values<br>8. Amazon EC2 launches instances and Amazon RDS DB instances into a VPC<br>9. Only signature version 4 signing supported |
+|AWS CloudFormation | 1. Might need to modify AWS CloudFormation sample templates and template snippets.2. Does not support AWS Config<br>3. Does not support Amazon CloudWatch Logs<br>4. Cannot launch a stack using an IAM service role<br>5. CloudFormer not available<br>6. Amazon Resource Names and endpoints have different values<br>7. Amazon EC2 launches instances and Amazon RDS DB instances into a VPC<br>8. Only signature version 4 signing supported |
 |AWS CloudTrail | 1. Amazon Resource Names and endpoints have different values.<br>2. Only signature version 4 signing supported. |
 |Amazon CloudWatch | 1. CloudWatch dashboards in the console are not available<br>2. Amazon Resource Names and endpoints have different values.<br>3. Only signature version 4 signing supported. |
 |Amazon CloudWatch Events | 1. Scheduleing events is not avaliable<br>2. Only Amazon SNS and Amazon Kinesis services are supported as targets for CloudWatch Events rules<br>3. Amazon Resource Names and endpoints have different values.<br>4. Only signature version 4 signing supported. |
@@ -24,8 +26,8 @@
 |AWS Diode |
 |AWS Direct Connect | |
 |Amazon DynamoDB | 1. Tagging for DynamoDB not available yet<br>2. DynamoDB Streams not available yet<br>3. Amazon Resource Names and endpoints have different values.<br>4. Only signature version 4 signing supported. |
-|Amazon Elastic Block Store | 1. Does not not support modifying the Size, IOPS or Type<br>2. Cross-region features are not supported<br>3. Amazon EC2 launches instances into a VPC instead of using the EC2-Classic platform<br>4. Amazon Resource Names and endpoints have different values.<br>5. Only signature version 4 signing supported. |
-|Amazon Elastic Compute Cloud | 1. Spot Instances are not available<br>2. Dedicated Instances are available, but Dedicated Reserve Instances are not supported<br>3. Amazon EC2 launches instances into a VPC instead of using the EC2-Classic platform<br>4. Automatic Instance Recovery not supported<br>5. Amazon Resource Names and endpoints have different values<br>6. Only signature version 4 signing supported<br>7. VM Export not available  |
+|Amazon Elastic Block Store | 1. Cross-region features are not supported<br>2. Amazon EC2 launches instances into a VPC instead of using the EC2-Classic platform<br>3. Amazon Resource Names and endpoints have different values.<br>4. Only signature version 4 signing supported. |
+|Amazon Elastic Compute Cloud | 1. Spot Instances are not available<br>2. Dedicated Instances are available, but Dedicated Reserve Instances are not supported<br>3. Amazon EC2 launches instances into a VPC instead of using the EC2-Classic platform<br>4. Amazon Resource Names and endpoints have different values<br>5. Only signature version 4 signing supported<br>6. VM Export is only available for AMIs that have been imported using VM Import, operating the same way in AWS commercial regions |
 |Elastic Load Balancing | 1. Does not support Route 53 features<br>2. Does not support IPv 6<br>3. Amazon EC2 launches instances into a VPC instead of using the EC2-Classic platform<br>4. Amazon Resource Names and endpoints have different values.<br>5. Only signature version 4 signing supported. |
 |Amazon EMR | 1. Only Hadoop version 2 supported<br>2. Hunk not available<br>3. MapR not available<br>4. Debugging not available<br>5. Amazon EC2 launches instances into a VPC instead of using the EC2-Classic platform<br>6. Amazon Resource Names and endpoints have different values.<br>7. Only signature version 4 signing supported. |
 |Amazon ElastiCache | 1. Exporting ElasticCache snapshots to Amazon S3 bucket not supported<br>2. Amazon EC2 launches instances into a VPC instead of using the EC2-Classic platform<br>3. Amazon Resource Names and endpoints have different values.<br>4. Only signature version 4 signing supported. |
