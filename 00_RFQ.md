@@ -270,8 +270,8 @@ These are the milestones provided for this solicitation:
 | --- | --- | --- |
 | 1 | 17JUL18 | Solicitation released |
 | 2 | 20JUL18 by 1700EST | Questions due |
-| 3 | 23JUL18 by 1700EST | Letters of Intent |
-| 4 | 31JUL18 by 1700EST | Quotes due (Technical and Price) |
+| 3 | 07AUGUST18 by 1700EST | Letters of Intent |
+| 4 | 07AUGUST18 by 1700EST | Quotes due (Technical and Price) |
 | 5 | TBD | Award decision |
 
 Page size for all documents provided shall be **8.5 x 11** inches and shall be single spaced with at least **1** inch margins for all sides. The font size shall be no less than **12 points**. Files **shall not** be zipped (.zip).
